@@ -1,0 +1,1 @@
+{"attachments":[],"errors":[{"message":"afterEach hook failed: Error: page.waitForTimeout: Target page, context or browser has been closed","trace":"Error: page.waitForTimeout: Target page, context or browser has been closed\n    at D:\\PlaywrightFramework7.15ambatch\\tests\\LoginUsingConfig.spec.ts:21:14","timestamp":1789876347045}]}
